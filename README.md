@@ -20,5 +20,15 @@ Putting it together, W[:, j] extracts the j-th column of the matrix W. The resul
   - Trained weights and biases from previous lab were used.
   - And a function to determine the classification was implemented. 
   - The whole lab file can be found [here](/Week_1/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb).
-
+### Week 1 Practice Lab
+  - In this lab, neural networks for handwritten digit recognition of 0 and 1 was to be implemented.
+  - load_data() function is used to load 1000 training examples of hand-written digits of 0 and 1. Each example is a 20 * 20 pixel gray-scale image of the digits.
+  - Thus, the training set contains X which is a matrix of 1000 rows and 400 columns. Columns are formed by rolling each pixel of image. And y, a matrix of 1000 rows and 1 column, where column basically contains the information of whether the digit is 1 or 0.
+  - A sequential model was implemented with sigmoid activation using Tensorflow Keras.
+  - Note: W will be of shape S_in * S_out
+  - Then, using NumPy, I implemented the **dense()** function which returns the activations.
+  - Then, Vectorized form of this neural network was implemented. I used np.matmul() to calculate z from inputs to any given layer. This was a vectorized implementation of dense() function.
+  - The last function to show errors, threw an error because there was literally no error at all. So, it threw out an index error.
+  - Also, NumPy Broadcasting was introduced.
+  - The lab notebook can be found [here](/Week_1/C2_W1_Assignment.ipynb)
 
