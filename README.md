@@ -39,3 +39,7 @@ Putting it together, W[:, j] extracts the j-th column of the matrix W. The resul
 - The off-stage (i.e. when z <= 0) of ReLU makes it non-linear.
 - The lab notebook can be found [here](/Week_2/C2_W2_Relu.ipynb)
 
+### Softmax Regression
+- It is basically the generalization of logistic regression.
+- $ a_1 $
+
