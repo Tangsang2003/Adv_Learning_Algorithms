@@ -64,5 +64,7 @@ This lab featured the building of multiclass network using TensorFlow.
     - Less prone to over-fitting, etc.
 ### Derivatives Using SymPy
 - The lab notebook is [here.](/Week_2/C2_W2_Derivatives.ipynb)
+### Computation graph and back propagation
+- This lab consisted of how back-propagation makes calculation of derivatives much efficient and faster in Neural Networks.
 
 
