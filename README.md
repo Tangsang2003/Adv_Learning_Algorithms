@@ -51,6 +51,9 @@ Putting it together, W[:, j] extracts the j-th column of the matrix W. The resul
 **Keywords**: *SparseCategoricalCrossentropy,* *CategoricalCrossEntropy*
 - This lab featured the introduction of Softmax function, its implementation (direct) and preferred.
 - The sparseCategoricalCrossEntropy loss function.
-- The lab notebook can be found [here](/Week_2/C2_W2_SoftMax.ipynb).
+- The lab notebook can be found [here.](/Week_2/C2_W2_SoftMax.ipynb)
 
+### Multiclass Classification lab
+This lab featured the building of multiclass network using TensorFlow.
+- The lab notebook can be found [here.](/Week_2/C2_W2_Multiclass_TF.ipynb)
 
