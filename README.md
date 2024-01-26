@@ -67,5 +67,8 @@ This lab featured the building of multiclass network using TensorFlow.
 ### Computation graph and back propagation
 - This lab consisted of how back-propagation makes calculation of derivatives much efficient and faster in Neural Networks.
 - The lab file can be found [here.](/Week_2/C2_W2_Backprop.ipynb)
-
+### Week 2 Final Lab
+- This lab consisted of using softmax regression for multi-class classification of handwritten digits 0-9. 
+- I had to implement the softmax function and also write the code for defining the Nueral Network model.
+- The lab file can be found [here.](/Week_2/C2_W2_Assignment.ipynb)
 
