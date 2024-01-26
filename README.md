@@ -66,5 +66,6 @@ This lab featured the building of multiclass network using TensorFlow.
 - The lab notebook is [here.](/Week_2/C2_W2_Derivatives.ipynb)
 ### Computation graph and back propagation
 - This lab consisted of how back-propagation makes calculation of derivatives much efficient and faster in Neural Networks.
+- The lab file can be found [here.](/Week_2/C2_W2_Backprop.ipynb)
 
 
