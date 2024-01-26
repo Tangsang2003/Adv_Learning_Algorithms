@@ -41,5 +41,16 @@ Putting it together, W[:, j] extracts the j-th column of the matrix W. The resul
 
 ### Softmax Regression
 - It is basically the generalization of logistic regression.
-- $ a_1 $
+
+### To train Neural Networks
+1. Specify the model. 
+2. Specify loss and cost. 
+3. Train on data to minimize J(cost).
+
+### Softmax lab
+**Keywords**: *SparseCategoricalCrossentropy,* *CategoricalCrossEntropy*
+- This lab featured the introduction of Softmax function, its implementation (direct) and preferred.
+- The sparseCategoricalCrossEntropy loss function.
+- The lab notebook can be found [here](/Week_2/C2_W2_SoftMax.ipynb).
+
 
