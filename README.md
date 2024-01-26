@@ -56,4 +56,13 @@ Putting it together, W[:, j] extracts the j-th column of the matrix W. The resul
 ### Multiclass Classification lab
 This lab featured the building of multiclass network using TensorFlow.
 - The lab notebook can be found [here.](/Week_2/C2_W2_Multiclass_TF.ipynb)
+### Convolutional Layer and Convolutional Neural Network
+- CL is a type of layer in which each unit in the layer only looks at the subset of the inputs/activations.
+- A Neural Network that has many Convolutional layers is called CNN.
+- Why do we require CNN?
+    - Faster
+    - Less prone to over-fitting, etc.
+### Derivatives Using SymPy
+- The lab notebook is [here.](/Week_2/C2_W2_Derivatives.ipynb)
+
 
