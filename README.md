@@ -71,4 +71,8 @@ This lab featured the building of multiclass network using TensorFlow.
 - This lab consisted of using softmax regression for multi-class classification of handwritten digits 0-9. 
 - I had to implement the softmax function and also write the code for defining the Nueral Network model.
 - The lab file can be found [here.](/Week_2/C2_W2_Assignment.ipynb)
-
+## Week 3
+### Week 3 Lab 1 (Optional Lab)
+- In this lab, evaluation of model's performance and choosing between different model configurations was explored. 
+- Splitting of datasets into training, cross validation, and test sets was performed and how each of these are used in Machine Learning applications was explored. 
+- The lab file can be found [here.](./Week_3/C2W3_Lab_01_Model_Evaluation_and_Selection.ipynb)
